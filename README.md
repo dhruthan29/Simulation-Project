@@ -48,8 +48,11 @@
 
 ### Circuit Diagram
 
+![Screenshot 2025-05-10 123629](https://github.com/user-attachments/assets/79f6b27e-9616-4555-869c-05283a5df01a)
 
 ### Simulation Output
+
+![Screenshot 2025-05-09 224027](https://github.com/user-attachments/assets/00c394ac-6fa8-4dc7-b544-5d8ada2bfcc5)
 
 ### Conclusion 
 A folded cascode operational amplifier is a powerful design that enhances gain, bandwidth, and output swing while maintaining low voltage operation. By strategically "folding" the cascode transistors, this topology balances efficiency and performance, making it ideal for high-speed and precision applications.Its ability to provide high gain, wide bandwidth, and improved common-mode rejection makes it a key choice in analog signal processing, analog-to-digital converters, and low-noise circuits. Careful transistor sizing and biasing ensure stability, efficiency, and optimal performance.
